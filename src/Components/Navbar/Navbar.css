@@ -43,6 +43,11 @@
   background: #ff4141;
 }
 
+.nav-menu a:link,
+.nav-login-cart a:link {
+  text-decoration: none;
+}
+
 .nav-login-cart {
   display: flex;
   align-items: center;
